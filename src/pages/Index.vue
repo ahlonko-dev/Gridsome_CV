@@ -48,7 +48,7 @@ export default {
     Portfolio
   },
   metaInfo: {
-    title: "Bertholddovi"
+    title: "Ahlonko-CV"
   }
 };
 </script>
