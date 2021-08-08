@@ -109,7 +109,7 @@
               >Jolie petite carte de visite développeur web</b-card-text
             >
             <b-button
-              href="https://bertholddovi.github.io/VCard/."
+              href="https://ahlonko-dev.github.io/VCard/"
               target="_blank"
               variant="primary"
               >Link Pages Github</b-button
