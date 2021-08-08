@@ -23,7 +23,7 @@
         <div class="social-icons contact-icons">
           <a
             title="Profile LinkedIn"
-            href="https://www.linkedin.com/in/berthold-alhonko-avouyi-dovi-5a49a2107/"
+            href="https://www.linkedin.com/in/ahlonko-avouyi-dovi-5a49a2107"
             target="_blank"
           >
             <font-awesome :icon="['fab', 'linkedin']" />
@@ -31,7 +31,7 @@
         </div>
         <div>
           <a
-            href="https://www.linkedin.com/in/berthold-alhonko-avouyi-dovi-5a49a2107/"
+            href="https://www.linkedin.com/in/ahlonko-avouyi-dovi-5a49a2107"
             target="_blank"
             >LINKEDIN Link</a
           >
