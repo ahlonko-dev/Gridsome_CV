@@ -7,11 +7,48 @@
         <b-card
           bg-variant="dark"
           text-variant="white"
+          title=".Net/Angular"
+        >
+          <b-card-text>
+            <strong>2021 </strong> : <strong> Technofutur Tic Charleroi</strong> <br />
+            <ul>
+              <li>Languages et Framework</li>
+              <ul>
+                <li>c#</li>
+                <li>.Net Framwork</li>
+                <li>.Net Core</li>
+                <li>Angular</li>
+              </ul>
+              <li>Patterns </li>
+              <ul>
+                <li>MVC</li>
+                <li>MVVC</li>
+                <li>API REST FULL</li>
+              </ul>
+              <li>Bases de données</li>
+              <ul>
+                <li>T SQL</li>
+                <li>SQL</li>
+              </ul>
+            </ul>
+          </b-card-text>
+          <b-button
+            href="https:technofuturtic.be/"
+            target="_blank"
+            variant="primary"
+            >Who's Technofutur Tic Charleroi ?</b-button
+          >
+        </b-card>
+      </div>
+
+      <div class="">
+        <b-card
+          bg-variant="dark"
+          text-variant="white"
           title="Développement Web Fullstack"
         >
           <b-card-text>
-            <strong>01/2020 à nos jours</strong> :
-            <strong> Becode Liège</strong> <br />
+            <strong>2020 </strong> : <strong> Becode Liège</strong> <br />
             <ul>
               <li>Languages et Logiciels</li>
               <ul>
