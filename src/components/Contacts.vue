@@ -17,7 +17,7 @@
             <font-awesome :icon="['fa', 'envelope']" />
           </li>
         </div>
-        <div>bertholddovi@gmail.com</div>
+        <div>ahlonko.adovi@gmail.com</div>
       </div>
       <div class="inline-block">
         <div class="social-icons contact-icons">
@@ -41,15 +41,15 @@
         <div class="social-icons contact-icons">
           <a
             title="Profile Github"
-            href="https://github.com/bertholddovi"
+            href="https://github.com/ahlonko-dev"
             target="_blank"
           >
             <font-awesome :icon="['fab', 'github']" />
           </a>
         </div>
         <div>
-          <a href="https://github.com/bertholddovi"
-            >https://github.com/Bertholddovi</a
+          <a href="https://github.com/ahlonko-dev"
+            >Github</a
           >
         </div>
       </div>
