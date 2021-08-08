@@ -3,7 +3,7 @@
     <div class="w-100">
       <h1 class="mb-5">Competences</h1>
 
-      <div class="subheading mb-3">Languages de programmations</div>
+      <div class="subheading mb-3">Langages de programmations</div>
       <ul class="list-inline dev-icons">
         <li title="Html 5" class="icons list-inline-item">
           <font-awesome :icon="['fab', 'html5']" />

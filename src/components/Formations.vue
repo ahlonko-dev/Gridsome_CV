@@ -12,7 +12,7 @@
           <b-card-text>
             <strong>2021 </strong> : <strong> Technofutur Tic Charleroi</strong> <br />
             <ul>
-              <li>Languages et Framework</li>
+              <li>Langages et Framework</li>
               <ul>
                 <li>c#</li>
                 <li>.Net Framwork</li>
@@ -50,7 +50,7 @@
           <b-card-text>
             <strong>2020 </strong> : <strong> Becode Liège</strong> <br />
             <ul>
-              <li>Languages et Logiciels</li>
+              <li>Langages et Logiciels</li>
               <ul>
                 <li>Html</li>
                 <li>css</li>
@@ -93,7 +93,7 @@
             <strong>04/2019 au 11/2019</strong> :
             <strong> Sirius - Hub Liège</strong> <br />
             <ul>
-              <li>Languages</li>
+              <li>Langages</li>
               <ul>
                 <li>Html</li>
                 <li>css</li>
