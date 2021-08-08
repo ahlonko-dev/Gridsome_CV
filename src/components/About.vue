@@ -10,7 +10,7 @@
       </p>
       <h4>Synthèse Prossionnelle</h4>
       <p class="lead mb-5">
-        Développeur web junior (fullstack); avec deux petites années
+        Développeur web junior (fullstack){PHP .NET/Angular } ; avec deux petites années
         d'expériences, je suis disposé à toujours apprendre de nouveaux
         langages, je sais travailler en équipe et seul.
       </p>
