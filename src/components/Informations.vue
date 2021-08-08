@@ -27,7 +27,7 @@
             <font-awesome :icon="['fa', 'user']" />
           </li>
         </div>
-        <div>Marié et père d'une chouette Fille de 20 mois</div>
+        <div>Marié et père d'une chouette petite Fille</div>
       </div>
 
       <div class="inline-block">
@@ -57,7 +57,7 @@
             <font-awesome :icon="['fa', 'map-marker']" />
           </li>
         </div>
-        <div>Rue Reine - Astrid 20/1D Welekenraedt 4840 - Belgique</div>
+        <div>Rue BergkapellStrasse 28 4700 - Belgique</div>
       </div>
     </div>
   </section>
